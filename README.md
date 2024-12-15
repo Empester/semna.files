@@ -7,6 +7,8 @@ Dotfiles for my Ubuntu rice, and others.
  - Many cut corners
  - I'm new to Linux, issues may appear.
 
+
+
 ## Usage:
 
 Run `./installer.sh` and wait for it to be installed.
