@@ -7,7 +7,8 @@ Dotfiles for my Ubuntu rice, and others.
  - Many cut corners
  - I'm new to Linux, issues may appear.
 
-[Preview](/preview.png)
+## Preview:
+<img src="/preview.png" alt="Hi!" width="300"/>
    
 ## Usage:
 
