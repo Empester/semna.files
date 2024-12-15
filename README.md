@@ -12,6 +12,12 @@ Dotfiles for my Ubuntu rice, and others.
    
 ## Usage:
 
+`git clone https://github.com/Empester/sena.files.git`
+
+`cd sena.files`
+
+`chmod +x installer.sh`
+
 Run `./installer.sh` and wait for it to be installed.
 
 ## Contact Me
